@@ -1,0 +1,3 @@
+factory('App\User')->create();
+
+'name' => $faker->word,
